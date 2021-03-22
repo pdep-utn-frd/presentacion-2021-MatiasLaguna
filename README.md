@@ -15,7 +15,7 @@ Me llamo Matias, tengo 20 años, soy Técnico Informatico y vivo en Zárate.
 - Mirar series (Les recomiendo: Scandal, Black Mirror, AHS)
 - Cocinar 
 - Escuchar musica:
-      * Imagine Dragons
-      * Twenty One Pilots
+    * Imagine Dragons
+    * Twenty One Pilots
 
 
