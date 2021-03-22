@@ -20,6 +20,6 @@ Me llamo Matias, tengo 20 años, soy Técnico Informatico y vivo en Zárate.
 
 ### Foto de mascota (Se llama Artemisa)
 ***   
-![](https://drive.google.com/file/d/1R-e3pCGmgmLCqU2doKuUq37O01xePy5C/view)
+![](https://github.com/pdep-utn-frd/presentacion-2021-MatiasLaguna/blob/main/WhatsApp%20Image%202021-03-22%20at%2017.27.53.jpeg)
 
 
